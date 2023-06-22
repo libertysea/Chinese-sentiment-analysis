@@ -1,6 +1,5 @@
 import os
 import re
-
 import gensim
 import jieba
 import numpy as np
@@ -24,6 +23,7 @@ from tensorflow.python.keras.preprocessing.sequence import pad_sequences
 from tensorflow.python.keras.utils.np_utils import to_categorical
 
 from custom_losses import WeightedCrossEntropy, BalancedCrossEntropy
+
 
 tf.config.list_physical_devices('GPU')
 

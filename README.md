@@ -51,7 +51,7 @@ $$
 
 其中，评价指标中各参数含义如下图所示
 
-![image-20230620081333114](https://picture.wpixiu.cn/lamkvF.png)
+![image-20230620081333114](img/lamkvF.png)
 
 ## 停用词表
 
@@ -65,7 +65,7 @@ $$
 **Recall：0.9230**
 **F1 Score：0.9232**
 
-![image-20230622145703675](https://picture.wpixiu.cn/t0769t.png)
+![image-20230622145703675](img/t0769t.png)
 
-![image-20230622145711380](https://picture.wpixiu.cn/DiAS1w.png)
+![image-20230622145711380](img/DiAS1w.png)
 
